@@ -4,3 +4,11 @@ body{
 header{
     background-color: red;
 }
+h1{
+    color:red;
+    font-size: 40px;
+
+}
+main {
+    background-color: red;
+}
