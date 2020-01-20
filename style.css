@@ -4,3 +4,7 @@ body{
 header{
     background-color: red;
 }
+p:hover{
+background-color: black;
+color: blanchedalmond;
+}
