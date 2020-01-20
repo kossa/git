@@ -3,4 +3,6 @@ body{
 }
 header{
     background-color: red;
+    color: #fff;
+    border: aquamarine;
 }
