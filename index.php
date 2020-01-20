@@ -10,4 +10,8 @@
 </main>
 Edited from github
 Second edit from github
+<<<<<<< HEAD
 
+=======
+Hadji kouceyla
+>>>>>>> f41a2b348645da8c4851e2c8188b37acdfc6a147
