@@ -1,17 +1,16 @@
-# Mon projet
-## Mon deuxieme titre
-*Text italic*
-_Text italic_
+# Mon project
+## sub title
 
-**Text gras**
-__Text gras__
+* list
+* list
+* list
 
-__**Text gras et italic**__
-* Item1
-* Item2
+1. list
+1. list
+1. list
+1. list
 
-1. Item1
-1. Item2
-```php
-<?php echo "Hello"; ?>
-```
+*Italic*
+
+**Gras**
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcWC8RqyBk8yLnkWw4iu_iIDLBIvhkiZWmj9E4OpUvrgN4iKEu)
