@@ -4,8 +4,11 @@ body{
 header{
     background-color: red;
 }
-
-
 h1{
     color: #fff;
+}
+p:hover{
+background-color: black;
+color: blanchedalmond;
+
 }
