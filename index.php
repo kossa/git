@@ -15,7 +15,11 @@ Edited from github
 Second edit from github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 sabrina
+=======
+hind
+>>>>>>> 499fb3c3681e1a452f7a45fef3a926070c9da40c
 =======
 Hadji kouceyla
 >>>>>>> f41a2b348645da8c4851e2c8188b37acdfc6a147
